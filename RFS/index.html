@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0032)http://shape2prog.csail.mit.edu/ -->
+<html xmlns="http://www.w3.org/1999/xhtml" class="gr__shape2prog_csail_mit_edu"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+        <script src="./RFS_files/head.js"></script>        <meta name="viewport" content="width=device-width, initial-scale=1">    <link rel="shortcut icon" href="http://shape2prog.csail.mit.edu/undefinedimages/favicon.ico">        <meta name="viewport" content="width=device-width, initial-scale=1">    <link rel="shortcut icon" href="http://shape2prog.csail.mit.edu/images/favicon.ico">
+        <meta name="description" content="Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?">
+        <meta name="keywords" content="MIT,Vision,Contrastive,Unsupervised,Meta,Few-shot,Self-supervised,Learning,Computer Science">
+
+        <title>CMC</title>
+        <link rel="stylesheet" href="./RFS/font.css">
+        <link rel="stylesheet" href="./RFS_files/main.css">
+
+
+    <style type="text/css">
+    .layered-paper-big { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+        box-shadow:
+                0px 0px 1px 1px rgba(0,0,0,0.35), /* The top layer shadow */
+                5px 5px 0 0px #fff, /* The second layer */
+                5px 5px 1px 1px rgba(0,0,0,0.35), /* The second layer shadow */
+                10px 10px 0 0px #fff, /* The third layer */
+                10px 10px 1px 1px rgba(0,0,0,0.35), /* The third layer shadow */
+                15px 15px 0 0px #fff, /* The fourth layer */
+                15px 15px 1px 1px rgba(0,0,0,0.35), /* The fourth layer shadow */
+                20px 20px 0 0px #fff, /* The fifth layer */
+                20px 20px 1px 1px rgba(0,0,0,0.35), /* The fifth layer shadow */
+                25px 25px 0 0px #fff, /* The fifth layer */
+                25px 25px 1px 1px rgba(0,0,0,0.35); /* The fifth layer shadow */
+        margin-left: 10px;
+        margin-right: 45px;
+    }
+    </style>
+
+    </head>
+
+    <body data-gr-c-s-loaded="true">
+
+        <div class="outercontainer">
+            <div class="container">
+
+                <div class="content project_title">
+                    <h1>Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?</h1>
+                </div>
+
+                <div class="content project_headline">
+                    <center><h2>
+                    <table align="center" width="1000px">
+                      <tbody><tr>
+                          <td align="center" width="200px">
+                            <center>
+                            <span style="font-size:20px"><a href="http://people.csail.mit.edu/yonglong/">Yonglong Tian*</a></span><br><span style="font-size:15px">MIT CSAIL</span>
+                            </center>
+                          </td>
+                          <td align="center" width="200px">
+                            <center>
+                            <span style="font-size:20px"><a href="http://people.csail.mit.edu/yuewang/">Yue Wang*</a></span><br><span style="font-size:15px">MIT CSAIL</span>
+                            </center>
+                          </td>
+                        <td align="center" width="200px">
+                            <center>
+                            <span style="font-size:20px"><a href="https://dilipkay.wordpress.com/">Dilip Krishnan</a></span><br><span style="font-size:15px">Google</span>
+                            </center>
+                        </td>
+                        <td align="center" width="200px">
+                            <center>
+                            <span style="font-size:20px"><a href="http://web.mit.edu/cocosci/josh.html">Joshua B. Tenenbaum</a></span><br><span style="    font-size:15px">MIT CSAIL</span>
+                            </center>
+                        </td>
+                        <td align="center" width="200px">
+                            <center>
+                            <span style="font-size:20px"><a href="http://web.mit.edu/phillipi">Phillip Isola</a></span><br><span style="    font-size:15px">MIT CSAIL</span>
+                            </center>
+                        </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    </h2></center>
+                </div>
+
+                <div class="content project_headline">
+                    <center><h2>
+                    <table align="center" width="700px">
+                      <tbody><tr>
+                          <td align="center" width="150px">
+                            <center>
+                                <span style="font-size:18px"></span>
+                            </center>
+                          </td>
+                          <td align="center" width="200px">
+                            <center>
+                                <span style="font-size:18px">Code <a href="https://github.com/WangYueFt/rfs"> [GitHub]</a></span>
+                            </center>
+                          </td>
+                          <td align="center" width="200px">
+                            <center>
+                                <span style="font-size:18px">arXiv 2020<a href="https://arxiv.org/abs/2003.11539"> [Paper]</a></span>
+                            </center>
+                          </td>
+                          <td align="center" width="150px">
+                            <center>
+                                <span style="font-size:18px"></span>
+                            </center>
+                          </td>
+                    </tr></tbody></table>
+                    </h2></center>
+                </div>
+
+
+                <div class="content project_headline">
+                    <div class="img" style="text-align:center">
+                        <img class="img_responsive" src="./RFS_files/teaser.png" alt="Teaser" style="margin:auto;max-width:90%">
+                    </div>
+                    <div class="text">
+                        <p>Figure 1: We show a meta-testing case for 5-way 1-shot task: 5 support images and 1 query image are transformed into embeddings using the fixed neural network; a linear model (logistic regression (LR) in this case) is trained on 5 support embeddings; the query image is tested using the linear model. </p>
+                    </div>
+                </div>
+
+
+                <div class="content">
+                    <div class="text">
+                        <h3>Abstract</h3>
+                        <p>The focus of recent meta-learning research has been on the development of learning algorithms that can quickly adapt to test time tasks with limited data and low computational cost. Few-shot learning is widely used as one of the standard benchmarks in meta-learning. In this work, we show that a simple baseline: learning a supervised or self-supervised representation on the meta-training set, followed by training a linear classifier on top of this representation, outperforms state-of-the-art few-shot learning methods. An additional boost can be achieved through the use of self-distillation. This demonstrates that using a good learned embedding model can be more effective than sophisticated meta-learning algorithms. We believe that our findings motivate a rethinking of few-shot image classification benchmarks and the associated role of meta-learning algorithms.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="content">
+                    <div class="text">
+                        <h3>Highlights</h3>
+                        <div class="text">
+                            <p><b> (1) Our model learns representations by training a neural network on the entire meta-training set: </b> <br> we merge all meta-training data into a single task and a neural network is asked to perform either ordinary classification or self-supervised learning, on this combined dataset. The classification task is equivalent to the pre-training phase of many meta-learning methods.</p>
+                            <div class="img" style="text-align:center">
+                                <img class="img_responsive" src="./RFS_files/meta-train.png" alt="Teaser" style="margin:auto;max-width:70%">
+                            </div>
+                        </div>
+
+                        <div class="text">
+                            <p><b> (2) Meta-testing is done using a linear classifier: </b> <br>
+                            After training, we keep the pre-trained network up to the penultimate layer and use it as a feature extractor. During meta-testing, for each task, we fit a linear classifier on the features extracted by the pre-trained network.  </p>
+
+                            <div class="img" style="text-align:center">
+                                <img class="img_responsive" src="./RFS_files/teaser.png" alt="Teaser" style="margin:auto;max-width:70%">
+                            </div>
+                        </div>
+
+                        <div class="text">
+                            <p><b> (3) Self-distillation provides an additional boost: </b> <br>
+                              instead of using the embedding model directly for meta-testing, we distill the knowledge from the embedding model to into a new model with an identical architecture, training on the same merged meta-training set.</p>
+
+                              <div class="img" style="text-align:center">
+                                  <img class="img_responsive" src="./RFS_files/self-distill.png" alt="Teaser" style="margin:auto;max-width:70%">
+                              </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="content">
+                    <div class="text">
+                        <h3>Publication</h3>
+                        <ul>
+                            <li>
+                                <div class="title"><a name="RFS">Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?</a></div>
+                                <div class="authors">
+                                    <a href="http://people.csail.mit.edu/yonglong/">Yonglong Tian*</a>,
+                                    <a href="http://people.csail.mit.edu/yuewang/">Yue Wang*</a>,
+                                    <a href="http://dilipkay.wordpress.com/">Dilip Krishnan</a>,
+                                    <a href="http://web.mit.edu/cocosci/josh.html">Joshua B. Tenenbaum</a>,
+                                    <a href="http://web.mit.edu/phillipi/">Phillip Isola</a>
+                                    (*indicates equal contribution)
+
+                                </div>
+                                <div>
+                                    <span class="tag"><a href="https://arxiv.org/abs/2003.11539">arXiv</a></span>
+                                    <span class="tag"><a href="https://github.com/WangYueFt/rfs">code</a></span>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="text" style="text-align:left">
+                        <table align="center" width="200" px="">
+                          <tbody><tr>
+                              <td><a href="https://arxiv.org/abs/2003.11539"><img class="layered-paper-big" style="height:175px" src="./RFS_files/paper_thumb.png"></a></td>
+                            </tr>
+                          </tbody></table>
+                    </div>
+                </div>
+
+                <div class="content">
+                    <div class="text">
+                        <h3>Results</h3>
+                        <p>We show results of this surprisingly simple baseline for few-shot learning. This baseline suggests that many recent meta-learning algorithms are no better than simply learning a good representation through a proxy task, e.g., image classification.
+                        </p>
+                    </div>
+                    <div class="img" style="text-align:center">
+                        <img class="img_responsive" src="./RFS_files/result.png" alt="Teaser" style="margin:auto;max-width:90%">
+                    </div>
+                </div>
+
+                <!-- <div class="content">
+                    <div class="text">
+                        <h3>Acknowledgements</h3>
+                        <p>Thanks to Devon Hjelm for providing implementation details of Deep InfoMax, Zhirong Wu and Richard Zhang for helpful discussion and comments. This material is based upon work supported by Google Cloud.
+                        </p>
+                    </div>
+                </div> -->
+
+            </div>
+        </div>
+
+
+
+
+
+<div id="download_plus_animation"></div></body></html>
