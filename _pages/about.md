@@ -2,30 +2,30 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='#'>Nvidia Research</a>. 2788 San Tomas Expy, Santa Clara, CA 95051
+subtitle: <a href='https://scholar.google.com/citations?user=v-AEFIEAAAAJ&hl=en'>[Google Scholar]</a> <a href='mailto:yuewang@csail.mit.edu'>[Email]</a> <a href='/files/CV_YueWang.pdf'>[CV]</a> <a href='/files/research_statement_YueWang.pdf'>[Research Statement]</a> <a href='/files/teaching_statement_YueWang.pdf'>[Teaching Statement]</a>
 
 profile:
   align: right
   image: avatar.png
   image_circular: false # crops the image to make it circular
-  address: >
+  address: > 
     
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Scientist at Nvidia Research, working with [Marco Pavone](https://web.stanford.edu/~pavone/). I graduated from MIT EECS, advised by [Justin Solomon](https://people.csail.mit.edu/jsolomon) at [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). I was also fortunate to collaborate with [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and [Phillip Isola](https://web.mit.edu/phillipi/). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  I've received the [Nvidia Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) (2020-2021) and the MIT EECS William A. Martin Master’s Thesis Award (2021). 
+I am a Research Scientist at NVIDIA Research [Autonomous Vehicle Research Group](https://nvr-avg.github.io), working with [Marco Pavone](https://web.stanford.edu/~pavone/). I graduated from MIT EECS in 2022, advised by [Justin Solomon](https://people.csail.mit.edu/jsolomon) at [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). I was also fortunate to collaborate with [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and [Phillip Isola](https://web.mit.edu/phillipi/). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  I've received the [Nvidia Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) (2020-2021) and the MIT EECS William A. Martin Master’s Thesis Award (2021). 
 
 
 ---
 My research lies in the intersection of computer vision, computer graphics, and robotics. My goal is to use machine learning to <strong>enable robot intelligence with minimal human supervision</strong>. I study how to design 3D learning systems which leverage geometry, appearance, and any other cues that are naturally avaiable in sensory inputs. I am also broadly interested in eclectic applications on top of these systems.
 
 Topics I currently focus on include:
-* <strong>Geometric deep learning</strong>: [DGCNN](), [DCP](), [PRNet](), [Object DGCNN](), [PointGrow]()
-* <strong>3D perception for robotics and autonomous driving</strong>: [PillarOD](), [Object DGCNN](), [DETR3D](), [HDMapNet]()
-* <strong>2D/3D self-supervised learning and few-shot learning</strong>: [FeatureDecor](), [RFS](), [STAR](), [RepLearnPoint]()
+* <strong>Geometric deep learning</strong>: [DGCNN](https://arxiv.org/abs/1801.07829), [DCP](https://arxiv.org/abs/1905.03304), [PRNet](https://arxiv.org/abs/1910.12240), [Object DGCNN](https://arxiv.org/abs/2110.06923), [PointGrow](https://arxiv.org/abs/1810.05591)
+* <strong>3D perception for robotics and autonomous driving</strong>: [PillarOD](https://arxiv.org/abs/2007.10323), [Object DGCNN](https://arxiv.org/abs/2110.06923), [DETR3D](https://arxiv.org/abs/2110.06922), [HDMapNet](https://arxiv.org/abs/2107.06307)
+* <strong>2D/3D self-supervised learning and few-shot learning</strong>: [FeatureDecor](https://arxiv.org/abs/2105.00470), [RFS](https://arxiv.org/abs/2003.11539), [STAR](https://openreview.net/forum?id=hW0tcXOJas2), [RepLearnPoint](https://openreview.net/forum?id=nuAGobCwb8V)
 * <strong>Neural representations</strong>
 
 ---
-<span style="color:red">We have research internship positions all year around at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span>
+<span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span>
