@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://scholar.google.com/citations?user=v-AEFIEAAAAJ&hl=en'>[Google Scholar]</a> <a href='mailto:yuewang@csail.mit.edu'>[Email]</a> <a href='/files/CV_YueWang.pdf'>[CV]</a> <a href='/files/research_statement_YueWang.pdf'>[Research Statement]</a> <a href='/files/teaching_statement_YueWang.pdf'>[Teaching Statement]</a>
+subtitle: <a href='https://scholar.google.com/citations?user=v-AEFIEAAAAJ&hl=en'>[Google Scholar]</a> <a href='mailto:yuewang@csail.mit.edu'>[Email]</a> <a href='/assets/files/CV_YueWang.pdf'>[CV]</a> <a href='/assets/files/research_statement_YueWang.pdf'>[Research Statement]</a> <a href='/assets/files/teaching_statement_YueWang.pdf'>[Teaching Statement]</a>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ I am a Research Scientist at NVIDIA Research [Autonomous Vehicle Research Group]
 
 
 ---
-My research lies in the intersection of computer vision, computer graphics, and robotics. My goal is to use machine learning to <strong>enable robot intelligence with minimal human supervision</strong>. I study how to design 3D learning systems which leverage geometry, appearance, and any other cues that are naturally avaiable in sensory inputs. I am also broadly interested in eclectic applications on top of these systems.
+My research lies in the intersection of computer vision, computer graphics, and robotics. My goal is to use machine learning to <strong>enable robot intelligence with minimal human supervision</strong>. I study how to design 3D learning systems which leverage geometry, appearance, and any other cues that are naturally available in sensory inputs. I am also broadly interested in eclectic applications on top of these systems.
 
 Topics I currently focus on include:
 * <strong>Geometric deep learning</strong>: [DGCNN](https://arxiv.org/abs/1801.07829), [DCP](https://arxiv.org/abs/1905.03304), [PRNet](https://arxiv.org/abs/1910.12240), [Object DGCNN](https://arxiv.org/abs/2110.06923), [PointGrow](https://arxiv.org/abs/1810.05591)
