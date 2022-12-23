@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://scholar.google.com/citations?user=v-AEFIEAAAAJ&hl=en'>[Google Scholar]</a> <a href='mailto:yuewang@csail.mit.edu'>[Email]</a> <a href='/assets/files/CV_YueWang.pdf'>[CV]</a> <a href='/assets/files/research_statement_YueWang.pdf'>[Research Statement]</a> <a href='/assets/files/teaching_statement_YueWang.pdf'>[Teaching Statement]</a>
+subtitle: <a href='https://scholar.google.com/citations?user=v-AEFIEAAAAJ&hl=en'>[Google Scholar]</a> <a href='mailto:yuewang@csail.mit.edu'>[Email]</a> <a href='/assets/files/CV_YueWang.pdf'>[CV]</a> 
+<!-- <a href='/assets/files/research_statement_YueWang.pdf'>[Research Statement]</a> <a href='/assets/files/teaching_statement_YueWang.pdf'>[Teaching Statement]</a> -->
 
 profile:
   align: right
