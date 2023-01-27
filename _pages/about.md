@@ -25,7 +25,7 @@ Topics I currently focus on include:
 * <strong>Geometric deep learning</strong>: [DGCNN](https://arxiv.org/abs/1801.07829), [DCP](https://arxiv.org/abs/1905.03304), [PRNet](https://arxiv.org/abs/1910.12240), [Object DGCNN](https://arxiv.org/abs/2110.06923), [PointGrow](https://arxiv.org/abs/1810.05591)
 * <strong>3D perception for robotics and autonomous driving</strong>: [PillarOD](https://arxiv.org/abs/2007.10323), [Object DGCNN](https://arxiv.org/abs/2110.06923), [DETR3D](https://arxiv.org/abs/2110.06922), [HDMapNet](https://arxiv.org/abs/2107.06307)
 * <strong>2D/3D self-supervised learning and few-shot learning</strong>: [FeatureDecor](https://arxiv.org/abs/2105.00470), [RFS](https://arxiv.org/abs/2003.11539), [STAR](https://openreview.net/forum?id=hW0tcXOJas2), [RepLearnPoint](https://openreview.net/forum?id=nuAGobCwb8V)
-* <strong>Neural representations</strong>
+* <strong>Neural fields for robotics and autonomous driving</strong> FreeNeRF (under review), T-Renderer (under review)
 
 ---
 <span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span>
