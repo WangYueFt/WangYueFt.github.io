@@ -28,4 +28,6 @@ Topics I currently focus on include:
 * <strong>Neural fields for robotics and autonomous driving</strong>: FreeNeRF (under review), T-Renderer (under review)
 
 ---
-<span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span>
+<!-- <span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span> -->
+
+<span style="color:red">We are organizing "[Vision-Centric Autonomous Driving Workshop](https://vcad.site)" at CVPR2023. Submit your recent papers, and participate in our novel challenges!.</span>
