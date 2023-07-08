@@ -15,16 +15,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Scientist at NVIDIA Research [Autonomous Vehicle Research Group](https://nvr-avg.github.io), working with [Marco Pavone](https://web.stanford.edu/~pavone/). I graduated from MIT EECS in 2022, advised by [Justin Solomon](https://people.csail.mit.edu/jsolomon) at [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). I was also fortunate to collaborate with [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and [Phillip Isola](https://web.mit.edu/phillipi/). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  I've received the [Nvidia Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) (2020-2021) and the MIT EECS William A. Martin Master’s Thesis Award (2021). 
+I am an incoming Assistant Professor at [USC CS](https://www.cs.usc.edu) and a Research Scientist at NVIDIA Research [Autonomous Vehicle Research Group](https://nvr-avg.github.io), working with [Marco Pavone](https://web.stanford.edu/~pavone/). I graduated from MIT EECS in 2022, advised by [Justin Solomon](https://people.csail.mit.edu/jsolomon) at [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). I was also fortunate to collaborate with [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and [Phillip Isola](https://web.mit.edu/phillipi/). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  I've received the [Nvidia Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) (2020-2021) and the MIT EECS William A. Martin Master’s Thesis Award (2021). 
 
 
 ---
-My research lies in the intersection of computer vision, computer graphics, and robotics. My goal is to use machine learning to <strong>enable robot intelligence with minimal human supervision</strong>. I study how to design 3D learning systems which leverage geometry, appearance, and any other cues that are naturally available in sensory inputs. I am also broadly interested in eclectic applications on top of these systems.
+My research lies in the intersection of computer vision, computer graphics, and robotics. My goal is to use machine learning to <strong>enable visual intelligence with minimal human supervision</strong>. I study how to design 3D learning systems which leverage geometry, appearance, and any other cues that are naturally available in sensory inputs. I am also broadly interested in eclectic applications on top of these systems.
 
 Topics I currently focus on include:
 * <strong>Neural fields for robotics and autonomous driving</strong>: [FreeNeRF](https://arxiv.org/abs/2303.07418)
 * <strong>Generative AI for 3D perception</strong>
-* <strong>Geometry-inspired self-supervised learning</strong>
+* <strong>Geometry-inspired self-supervised learning</strong>: [GeoMAE](https://arxiv.org/abs/2305.08808)
 
 Past topics: 
 * <strong>Geometric deep learning</strong>: [DGCNN](https://arxiv.org/abs/1801.07829), [DCP](https://arxiv.org/abs/1905.03304), [PRNet](https://arxiv.org/abs/1910.12240), [Object DGCNN](https://arxiv.org/abs/2110.06923), [PointGrow](https://arxiv.org/abs/1810.05591)
@@ -34,4 +34,4 @@ Past topics:
 ---
 <!-- <span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span> -->
 
-<span style="color:red">We are organizing ["Vision-Centric Autonomous Driving Workshop"](http://vcad.site) at CVPR2023. Submit your recent papers, and participate in our novel challenges!</span>
+<span style="color:red">We are organizing ["Neural fields for robotics and autonomous driving"](http://neural-fields.xyz) at ICCV2023. We welcome paper submission to our workshop!</span>
