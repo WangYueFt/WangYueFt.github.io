@@ -43,6 +43,9 @@ PhD students:
 MS students:
 * [Jonathan Zamora-Anaya](https://jonzamora.dev)
 
+Nvidia interns:
+* [Katie Luo](https://www.cs.cornell.edu/~katieluo/)
+  
 ---
 <!-- <span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span> -->
 
