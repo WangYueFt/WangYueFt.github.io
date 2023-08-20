@@ -34,10 +34,8 @@ Past topics:
 * <strong>2D/3D self-supervised learning and few-shot learning</strong>: [FeatureDecor](https://arxiv.org/abs/2105.00470), [RFS](https://arxiv.org/abs/2003.11539), [STAR](https://openreview.net/forum?id=hW0tcXOJas2), [RepLearnPoint](https://openreview.net/forum?id=nuAGobCwb8V)
 
 ---
-
-
 Students:
-* [Emily Jia](https://emily-jia.github.io/personal-web/) co-advise w/ [Yajie Zhao](https://www.yajie-zhao.com)
+* [Emily Jia](https://emily-jia.github.io/personal-web/) (co-advised with [Yajie Zhao](https://www.yajie-zhao.com))
 * [Jonathan Zamora-Anaya](https://jonzamora.dev)
 * [Jiageng Mao](https://scholar.google.com.hk/citations?user=5S9eZbcAAAAJ&hl=zh-CN)
 * [Jiawei Yang](https://jiawei-yang.github.io)
@@ -45,6 +43,7 @@ Students:
   
 Interns (at Nvidia):
 * [Katie Luo](https://www.cs.cornell.edu/~katieluo/)
+  
 ---
 <!-- <span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span> -->
 
