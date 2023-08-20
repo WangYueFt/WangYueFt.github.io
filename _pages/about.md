@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) and a part-time Research Scientist at [NVIDIA Research] (https://nvr-avg.github.io).
+I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) and a part-time Research Scientist at [NVIDIA Research](https://nvr-avg.github.io).
 
  <!-- I graduated from MIT EECS in 2022, advised by [Justin Solomon](https://people.csail.mit.edu/jsolomon) at [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). I was also fortunate to collaborate with [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and [Phillip Isola](https://web.mit.edu/phillipi/). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  I've received the [Nvidia Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) (2020-2021) and the MIT EECS William A. Martin Master’s Thesis Award (2021).  -->
 
@@ -36,14 +36,14 @@ Past topics:
 ---
 
 
-<strong>Students:</strong>
-* [Emily Jia] (https://emily-jia.github.io/personal-web/) co-advise w/ [Yajie Zhao] (https://www.yajie-zhao.com)
-* [Jonathan Zamora-Anaya] (https://jonzamora.dev)
-* [Jiageng Mao] (https://scholar.google.com.hk/citations?user=5S9eZbcAAAAJ&hl=zh-CN)
-* [Jiawei Yang] (https://jiawei-yang.github.io)
-* [Junjie Ye] (https://jay-ye.github.io)
-<strong>Interns (at Nvidia):</strong>
-* [Katie Luo] (https://www.cs.cornell.edu/~katieluo/)
+Students:
+* [Emily Jia](https://emily-jia.github.io/personal-web/) co-advise w/ [Yajie Zhao](https://www.yajie-zhao.com)
+* [Jonathan Zamora-Anaya](https://jonzamora.dev)
+* [Jiageng Mao](https://scholar.google.com.hk/citations?user=5S9eZbcAAAAJ&hl=zh-CN)
+* [Jiawei Yang](https://jiawei-yang.github.io)
+* [Junjie Ye](https://jay-ye.github.io)
+Interns (at Nvidia)
+* [Katie Luo](https://www.cs.cornell.edu/~katieluo/)
 ---
 <!-- <span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span> -->
 
