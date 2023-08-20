@@ -42,7 +42,8 @@ Students:
 * [Jiageng Mao](https://scholar.google.com.hk/citations?user=5S9eZbcAAAAJ&hl=zh-CN)
 * [Jiawei Yang](https://jiawei-yang.github.io)
 * [Junjie Ye](https://jay-ye.github.io)
-Interns (at Nvidia)
+  
+Interns (at Nvidia):
 * [Katie Luo](https://www.cs.cornell.edu/~katieluo/)
 ---
 <!-- <span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span> -->
