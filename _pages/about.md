@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an incoming Assistant Professor at [USC CS](https://www.cs.usc.edu) and a Research Scientist at NVIDIA Research [Autonomous Vehicle Research Group](https://nvr-avg.github.io), working with [Marco Pavone](https://web.stanford.edu/~pavone/). I graduated from MIT EECS in 2022, advised by [Justin Solomon](https://people.csail.mit.edu/jsolomon) at [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). I was also fortunate to collaborate with [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and [Phillip Isola](https://web.mit.edu/phillipi/). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  I've received the [Nvidia Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) (2020-2021) and the MIT EECS William A. Martin Master’s Thesis Award (2021). 
+I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) and a part-time Research Scientist at [NVIDIA Research] (https://nvr-avg.github.io). I graduated from MIT EECS in 2022, advised by [Justin Solomon](https://people.csail.mit.edu/jsolomon) at [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). I was also fortunate to collaborate with [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and [Phillip Isola](https://web.mit.edu/phillipi/). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  I've received the [Nvidia Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) (2020-2021) and the MIT EECS William A. Martin Master’s Thesis Award (2021). 
 
 
 ---
@@ -23,7 +23,7 @@ My research lies in the intersection of computer vision, computer graphics, and 
 
 Topics I currently focus on include:
 * <strong>Neural fields for robotics and autonomous driving</strong>: [FreeNeRF](https://arxiv.org/abs/2303.07418)
-* <strong>Generative AI for 3D perception</strong>
+* <strong>Generative AI for robotics</strong>
 * <strong>Geometry-inspired self-supervised learning</strong>: [GeoMAE](https://arxiv.org/abs/2305.08808)
 
 Past topics: 
@@ -31,6 +31,17 @@ Past topics:
 * <strong>3D perception for robotics and autonomous driving</strong>: [PillarOD](https://arxiv.org/abs/2007.10323), [Object DGCNN](https://arxiv.org/abs/2110.06923), [DETR3D](https://arxiv.org/abs/2110.06922), [HDMapNet](https://arxiv.org/abs/2107.06307)
 * <strong>2D/3D self-supervised learning and few-shot learning</strong>: [FeatureDecor](https://arxiv.org/abs/2105.00470), [RFS](https://arxiv.org/abs/2003.11539), [STAR](https://openreview.net/forum?id=hW0tcXOJas2), [RepLearnPoint](https://openreview.net/forum?id=nuAGobCwb8V)
 
+---
+
+
+<strong>Students:</strong>
+* [Emily Jia] (https://emily-jia.github.io/personal-web/) co-advise w/ [Yajie Zhao] (https://www.yajie-zhao.com)
+* [Jonathan Zamora-Anaya] (https://jonzamora.dev)
+* [Jiageng Mao] (https://scholar.google.com.hk/citations?user=5S9eZbcAAAAJ&hl=zh-CN)
+* [Jiawei Yang] (https://jiawei-yang.github.io)
+* [Junjie Ye] (https://jay-ye.github.io)
+<strong>Interns (at Nvidia):</strong>
+* [Katie Luo] (https://www.cs.cornell.edu/~katieluo/)
 ---
 <!-- <span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span> -->
 
