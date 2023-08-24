@@ -41,7 +41,7 @@ PhD students:
 * [Junjie Ye](https://jay-ye.github.io)
   
 MS students:
-* [Jonathan Zamora-Anaya](https://jonzamora.dev)
+* [Jonathan Zamora](https://jonzamora.dev)
 
 Nvidia interns:
 * [Katie Luo](https://www.cs.cornell.edu/~katieluo/)
