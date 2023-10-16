@@ -21,17 +21,17 @@ I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) and a part-time 
 
 
 ---
-My research lies in the intersection of computer vision, computer graphics, and robotics. My goal is to use machine learning to <strong>enable visual intelligence with minimal human supervision</strong>. I study how to design 3D learning systems which leverage geometry, appearance, and any other cues that are naturally available in sensory inputs. I am also broadly interested in eclectic applications on top of these systems.
+My research lies in the intersection of computer vision, computer graphics, and robotics. My goal is to use machine learning to <strong>enable visual intelligence with minimal human supervision</strong>. I study how to design 3D learning systems which leverage geometry, appearance, motion, and any other cues that are naturally available in sensory inputs. I am also broadly interested in eclectic applications on top of these systems.
 
 Topics I currently focus on include:
-* <strong>Neural fields for robotics and autonomous driving</strong>: [FreeNeRF](https://arxiv.org/abs/2303.07418)
-* <strong>Generative AI for robotics</strong>
-* <strong>Geometry-inspired self-supervised learning</strong>: [GeoMAE](https://arxiv.org/abs/2305.08808)
+* <strong>Scene representations for robotics with neural fields</strong>: [EmerNeRF](), [FreeNeRF](https://arxiv.org/abs/2303.07418)
+* <strong>LLMs as Agents</strong>: [GPT-Driver](https://arxiv.org/abs/2310.01415)
+* <strong>End-to-end simulation for robotics and autonomous driving</strong>: 
 
 Past topics: 
 * <strong>Geometric deep learning</strong>: [DGCNN](https://arxiv.org/abs/1801.07829), [DCP](https://arxiv.org/abs/1905.03304), [PRNet](https://arxiv.org/abs/1910.12240), [Object DGCNN](https://arxiv.org/abs/2110.06923), [PointGrow](https://arxiv.org/abs/1810.05591)
 * <strong>3D perception for robotics and autonomous driving</strong>: [PillarOD](https://arxiv.org/abs/2007.10323), [Object DGCNN](https://arxiv.org/abs/2110.06923), [DETR3D](https://arxiv.org/abs/2110.06922), [HDMapNet](https://arxiv.org/abs/2107.06307)
-* <strong>2D/3D self-supervised learning and few-shot learning</strong>: [FeatureDecor](https://arxiv.org/abs/2105.00470), [RFS](https://arxiv.org/abs/2003.11539), [STAR](https://openreview.net/forum?id=hW0tcXOJas2), [RepLearnPoint](https://openreview.net/forum?id=nuAGobCwb8V)
+* <strong>2D/3D self-supervised learning and few-shot learning</strong>: [FeatureDecor](https://arxiv.org/abs/2105.00470), [RFS](https://arxiv.org/abs/2003.11539), [STAR](https://openreview.net/forum?id=hW0tcXOJas2), [RepLearnPoint](https://openreview.net/forum?id=nuAGobCwb8V), [GeoMAE](https://arxiv.org/abs/2305.08808)
 
 ---
 PhD students:
@@ -48,5 +48,5 @@ Nvidia interns:
   
 ---
 <!-- <span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span> -->
-
-<span style="color:red">We are organizing ["Neural fields for robotics and autonomous driving"](http://neural-fields.xyz) at ICCV2023. We welcome paper submission to our workshop!</span>
+<span style="color:red">DGCNN received the Frontiers of Science Award (a.k.a [Best Paper Award at ICBS](https://www.icbs.cn/en/web/index/18009_1581229__)), one of the only four awardees in the Graphics and Geometric Computing area in the past 5 years. </span>
+<!-- <span style="color:red">We are organizing ["Neural fields for robotics and autonomous driving"](http://neural-fields.xyz) at ICCV2023. We welcome paper submission to our workshop!</span> -->
