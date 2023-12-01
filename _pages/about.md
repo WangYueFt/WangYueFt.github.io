@@ -22,7 +22,7 @@ I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) (2023 Fall-), an
 My research lies in the intersection of computer vision, computer graphics, and robotics. My goal is to use machine learning to <strong>enable robotic intelligence with minimal human supervision</strong>. I study how to design 3D learning systems which leverage geometry, appearance, motion, and any other cues that are naturally available in sensory inputs. I am also broadly interested in fundamental deep learning tools and eclectic applications on top of these systems.
 
 Topics I currently focus on include:
-* <strong>Neural scene representations for autonomous driving and robotics</strong>: [EmerNeRF](https://emernerf.github.io), [LiNeRF](https://cs.stanford.edu/~congyue/linerf/) [FreeNeRF](https://jiawei-yang.github.io/FreeNeRF/)
+* <strong>Neural scene representations for autonomous driving and robotics</strong>: [EmerNeRF](https://emernerf.github.io), [LiNeRF](https://cs.stanford.edu/~congyue/linerf/), [FreeNeRF](https://jiawei-yang.github.io/FreeNeRF/)
 * <strong>LLMs as agents for continuous decision making</strong>: [GPT-Driver](https://pointscoder.github.io/projects/gpt_driver/index.html), [Agent-Driver](https://usc-gvl.github.io/Agent-Driver/)
 * <strong>Science of deep learning</strong>: 
 
