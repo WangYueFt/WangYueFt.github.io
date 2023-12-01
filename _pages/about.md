@@ -22,9 +22,9 @@ I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) (2023 Fall-), an
 My research lies in the intersection of computer vision, computer graphics, and robotics. My goal is to use machine learning to <strong>enable robotic intelligence with minimal human supervision</strong>. I study how to design 3D learning systems which leverage geometry, appearance, motion, and any other cues that are naturally available in sensory inputs. I am also broadly interested in fundamental deep learning tools and eclectic applications on top of these systems.
 
 Topics I currently focus on include:
-* <strong>Neural scene representations for autonomous driving and robotics</strong>: [EmerNeRF](https://arxiv.org/abs/2311.02077), [FreeNeRF](https://arxiv.org/abs/2303.07418)
-* <strong>LLMs as agents for continuous decision making</strong>: [GPT-Driver](https://arxiv.org/abs/2310.01415)
-* <strong>Fundamentals of deep learning</strong>: 
+* <strong>Neural scene representations for autonomous driving and robotics</strong>: [EmerNeRF](https://emernerf.github.io), [LiNeRF](https://cs.stanford.edu/~congyue/linerf/) [FreeNeRF](https://jiawei-yang.github.io/FreeNeRF/)
+* <strong>LLMs as agents for continuous decision making</strong>: [GPT-Driver](https://pointscoder.github.io/projects/gpt_driver/index.html), [Agent-Driver](https://usc-gvl.github.io/Agent-Driver/)
+* <strong>Science of deep learning</strong>: 
 
 Past topics: 
 * <strong>Geometric deep learning</strong>: [DGCNN](https://arxiv.org/abs/1801.07829), [DCP](https://arxiv.org/abs/1905.03304), [PRNet](https://arxiv.org/abs/1910.12240), [Object DGCNN](https://arxiv.org/abs/2110.06923), [PointGrow](https://arxiv.org/abs/1810.05591)
