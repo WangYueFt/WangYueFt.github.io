@@ -18,6 +18,9 @@ social: true  # includes social icons at the bottom of the page
 I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) (2023 Fall-), and a part-time Research Scientist at [NVIDIA Research](https://nvr-avg.github.io)  (2022 Fall-) working with [Prof. Marco Pavone](https://web.stanford.edu/~pavone/). I graduated from MIT EECS in 2022, advised by [Prof. Justin Solomon](https://people.csail.mit.edu/jsolomon) at [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). I was also fortunate to collaborate with [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and [Prof. Phillip Isola](https://web.mit.edu/phillipi/). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  I've received the [Nvidia Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) (2020-2021) and the MIT EECS William A. Martin Master’s Thesis Award (2021). 
 
 
+<span style="color:red">I am looking to hiring multiple PhDs/visiting students. For PhD applicants, please mention my name in your application. Interested candidates for visiting positions can fill [this form](https://forms.gle/RerZfDqCqmCj8As27) and I will respond as soon as I find a good fit. </span>
+
+
 ---
 My research lies in the intersection of computer vision, computer graphics, and robotics. My goal is to use machine learning to <strong>enable robotic intelligence with minimal human supervision</strong>. I study how to design 3D learning systems which leverage geometry, appearance, motion, and any other cues that are naturally available in sensory inputs. I am also broadly interested in fundamental deep learning tools and eclectic applications on top of these systems.
 
