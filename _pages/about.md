@@ -27,7 +27,7 @@ My research lies in the intersection of computer vision, computer graphics, and 
 Topics I currently focus on include:
 * <strong>Neural scene representations for autonomous driving and robotics</strong>: [EmerNeRF](https://emernerf.github.io), [LiNeRF](https://cs.stanford.edu/~congyue/linerf/), [FreeNeRF](https://jiawei-yang.github.io/FreeNeRF/)
 * <strong>LLMs as agents for continuous decision making</strong>: [GPT-Driver](https://pointscoder.github.io/projects/gpt_driver/index.html), [Agent-Driver](https://usc-gvl.github.io/Agent-Driver/)
-* <strong>Science of deep learning</strong>: 
+* <strong>Science of deep learning</strong>: [DVT](https://jiawei-yang.github.io/DenoisingViT/)
 
 Past topics: 
 * <strong>Geometric deep learning</strong>: [DGCNN](https://arxiv.org/abs/1801.07829), [DCP](https://arxiv.org/abs/1905.03304), [PRNet](https://arxiv.org/abs/1910.12240), [Object DGCNN](https://arxiv.org/abs/2110.06923), [PointGrow](https://arxiv.org/abs/1810.05591)
