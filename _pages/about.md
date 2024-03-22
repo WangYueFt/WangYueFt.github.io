@@ -40,12 +40,14 @@ PhD students:
 * [Jiageng Mao](https://scholar.google.com.hk/citations?user=5S9eZbcAAAAJ&hl=zh-CN)
 * [Jiawei Yang](https://jiawei-yang.github.io)
 * [Junjie Ye](https://jay-ye.github.io)
+* [Cameron Smith](https://cameronosmith.github.io) (incoming)
   
 MS students:
 * [Jonathan Zamora](https://jonzamora.dev)
 
-Nvidia interns:
-* [Katie Luo](https://www.cs.cornell.edu/~katieluo/)
+Undergrads:
+* James Qian
+* Dylan Sun
   
 ---
 <!-- <span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span> -->
