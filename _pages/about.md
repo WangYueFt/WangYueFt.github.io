@@ -51,5 +51,5 @@ Undergrads:
   
 ---
 <!-- <span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span> -->
-<span style="color:red">DGCNN received the Frontiers of Science Award (a.k.a [Best Paper Award at ICBS](https://www.icbs.cn/en/web/index/18009_1581229__)), one of the only four awardees in the Graphics and Geometric Computing area in the past 5 years. </span>
+<!-- <span style="color:red">DGCNN received the Frontiers of Science Award (a.k.a [Best Paper Award at ICBS](https://www.icbs.cn/en/web/index/18009_1581229__)), one of the only four awardees in the Graphics and Geometric Computing area in the past 5 years. </span> -->
 <!-- <span style="color:red">We are organizing ["Neural fields for robotics and autonomous driving"](http://neural-fields.xyz) at ICCV2023. We welcome paper submission to our workshop!</span> -->
