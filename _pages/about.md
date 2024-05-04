@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://scholar.google.com/citations?user=v-AEFIEAAAAJ&hl=en'>[Google Scholar]</a> <a href='mailto:yue.w@usc.edu'>[Email]</a> <a href='/assets/files/CV_YueWang.pdf'>[CV]</a> 
+subtitle: <a href='https://scholar.google.com/citations?user=v-AEFIEAAAAJ&hl=en'>[Google Scholar]</a> <a href='mailto:yue.w@usc.edu'>[Email]</a> 
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) (2023 Fall-), and a part-time Research Scientist at [NVIDIA Research](https://nvr-avg.github.io)  (2022 Fall-) working with [Prof. Marco Pavone](https://web.stanford.edu/~pavone/). I graduated from MIT EECS in 2022, advised by [Prof. Justin Solomon](https://people.csail.mit.edu/jsolomon) at [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). I was also fortunate to collaborate with [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and [Prof. Phillip Isola](https://web.mit.edu/phillipi/). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  I've received the [Nvidia Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) (2020-2021) and the MIT EECS William A. Martin Master’s Thesis Award (2021). 
+I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) (2023 Fall-). I graduated from MIT EECS in 2022, advised by [Prof. Justin Solomon](https://people.csail.mit.edu/jsolomon) at [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). I was also fortunate to collaborate with [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and [Prof. Phillip Isola](https://web.mit.edu/phillipi/). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  I've received the [Nvidia Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) (2020-2021) and the MIT EECS William A. Martin Master’s Thesis Award (2021). 
 
 
 <span style="color:red">I am looking to hire multiple PhDs/visiting students. In particular, we welcome students from marginalized groups. We firmly support [Viterbi school's DEI initiative](https://viterbischool.usc.edu/diversity-equity-inclusion/) to contribute to diversity. For PhD applicants, please mention my name in your application. Interested candidates for visiting positions can fill [this form](https://forms.gle/RerZfDqCqmCj8As27) and I will respond as soon as I find a good fit. </span>
