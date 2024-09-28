@@ -25,30 +25,46 @@ I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) (2023 Fall-). I 
 My research lies in the intersection of computer vision, computer graphics, and robotics. My goal is to use machine learning to <strong>enable robotic intelligence with minimal human supervision</strong>. I study how to design 3D learning systems which leverage geometry, appearance, motion, and any other cues that are naturally available in sensory inputs. I am also broadly interested in fundamental deep learning tools and eclectic applications on top of these systems.
 
 Topics I currently focus on include:
-* <strong>Neural scene representations for autonomous driving and robotics</strong>: [EmerNeRF](https://emernerf.github.io), [LiNeRF](https://cs.stanford.edu/~congyue/linerf/), [FreeNeRF](https://jiawei-yang.github.io/FreeNeRF/)
-* <strong>LLMs as agents for continuous decision making</strong>: [GPT-Driver](https://pointscoder.github.io/projects/gpt_driver/index.html), [Agent-Driver](https://usc-gvl.github.io/Agent-Driver/)
-* <strong>Science of deep learning</strong>: [DVT](https://jiawei-yang.github.io/DenoisingViT/)
-
-Past topics: 
-* <strong>Geometric deep learning</strong>: [DGCNN](https://arxiv.org/abs/1801.07829), [DCP](https://arxiv.org/abs/1905.03304), [PRNet](https://arxiv.org/abs/1910.12240), [Object DGCNN](https://arxiv.org/abs/2110.06923), [PointGrow](https://arxiv.org/abs/1810.05591)
-* <strong>3D perception for robotics and autonomous driving</strong>: [PillarOD](https://arxiv.org/abs/2007.10323), [Object DGCNN](https://arxiv.org/abs/2110.06923), [DETR3D](https://arxiv.org/abs/2110.06922), [HDMapNet](https://arxiv.org/abs/2107.06307)
-* <strong>2D/3D self-supervised learning and few-shot learning</strong>: [FeatureDecor](https://arxiv.org/abs/2105.00470), [RFS](https://arxiv.org/abs/2003.11539), [STAR](https://openreview.net/forum?id=hW0tcXOJas2), [RepLearnPoint](https://openreview.net/forum?id=nuAGobCwb8V), [GeoMAE](https://arxiv.org/abs/2305.08808)
+* <strong>neural representations for dynamic scenes</strong>
+* <strong>real2sim2real for robotics</strong>
+* <strong>robotic manipulation</strong>
 
 ---
 PhD students:
 * [Emily Jia](https://emily-jia.github.io/personal-web/) (co-advised with [Yajie Zhao](https://www.yajie-zhao.com))
-* [Jiageng Mao](https://scholar.google.com.hk/citations?user=5S9eZbcAAAAJ&hl=zh-CN)
-* [Jiawei Yang](https://jiawei-yang.github.io)
-* [Junjie Ye](https://jay-ye.github.io)
-* [Cameron Smith](https://cameronosmith.github.io) (incoming)
+* [Jiageng Mao](https://scholar.google.com.hk/citations?user=5S9eZbcAAAAJ&hl=zh-CN) (Qualcomm Fellow)
+* [Jiawei Yang](https://jiawei-yang.github.io) 
+* [Junjie Ye](https://jay-ye.github.io) (Qualcomm Fellow)
+* [Cameron Smith](https://cameronosmith.github.io) 
+* [Siheng Zhao](https://sihengz02.github.io)
   
 MS students:
 * [Jonathan Zamora](https://jonzamora.dev)
+* [Haozhe Lou](https://scholar.google.com/citations?user=BIPK9KEAAAAJ&hl=en)
+* [Ting-Hsuan Chen](https://koi953215.github.io)
+* Scoot Gao
 
 Undergrads:
-* James Qian
 * Dylan Sun
+
+Visitors:
+* Ziyu Chen
+* Feishi Wang
+* Yiduo Guo
+
+Alumni:
+* James Qian (Next stop: Stanford)
   
+---
+
+Selected Award:
+
+* Toyota Research Young Faculty Researcher 
+* Powell Faculty Research Award
+* ICBS Best Paper Award
+* Nvidia Fellowship
+* MIT William A. Martin Master’s Thesis Award
+
 ---
 <!-- <span style="color:red">We have research internship positions all year at Nvidia Research. If you're pursuing a PhD and interested in any topics above, feel free to contact me at yuewang@nvidia.com.</span> -->
 <!-- <span style="color:red">DGCNN received the Frontiers of Science Award (a.k.a [Best Paper Award at ICBS](https://www.icbs.cn/en/web/index/18009_1581229__)), one of the only four awardees in the Graphics and Geometric Computing area in the past 5 years. </span> -->

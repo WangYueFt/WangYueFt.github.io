@@ -11,29 +11,88 @@
 @string{eccv = {The European Conference on Computer Vision}}
 @string{cvpr = {The Conference on Computer Vision and Pattern Recognition}}
 @string{wacv = {Winter Conference On Applications of Computer Vision}}
+@string{colm = {Conference on Language Modeling}}
+
 @string{preprint = {arXiv}}
 
-
-@article{yang2024dvt, 
-   abbr={arXiv},
+@inproceedings{fan2024, 
+   abbr={NeurIPS},
    bibtex_show={true},
-   title={Denoising Vision Transformers}, 
-   author={Jiawei Yang* and Katie Z Luo* and Jiefeng Li and Kilian Q Weinberger and Yonglong Tian and Yue Wang}, 
+   title={Large Spatial Model: Real-time Unposed Images to Semantic 3D}, 
+   author={Zhiwen Fan* and Jian Zhang* and Wenyan Cong and Peihao Wang and Renjie Li and Kairun Wen and Shijie Zhou and Achuta Kadambi and Zhangyang Wang and Danfei Xu and Boris Ivanovic and Marco Pavone and Yue Wang}, 
    year={2024}, 
-   booktitle=preprint,
-   pdf={https://arxiv.org/abs/2401.02957},
-   selected={true},
-   website={https://jiawei-yang.github.io/DenoisingViT/},
+   booktitle=neurips,
+   website={https://largespatialmodel.github.io},
+   selected={false},
 }
 
+@inproceedings{li2024gm, 
+   abbr={NeurIPS Spotlight},
+   bibtex_show={true},
+   title={Memorize What Matters: Emergent Scene Decomposition from Multitraverse}, 
+   author={Yiming Li and Zehong Wang and Yue Wang and Zhiding Yu and Zan Gojcic and Marco Pavone and Chen Feng and Jose M. Alvarez}, 
+   year={2024}, 
+   booktitle=neurips,
+   pdf={https://arxiv.org/abs/2405.17187},
+   website={https://nvlabs.github.io/3DGM/},
+   code={https://github.com/NVlabs/3DGM},
+   selected={false},
+}
 
-@article{mao2023agent, 
-   abbr={arXiv},
+@inproceedings{wang2024distillnerf, 
+   abbr={NeurIPS},
+   bibtex_show={true},
+   title={DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features}, 
+   author={Letian Wang and Seung Wook Kim and Jiawei Yang and Cunjun Yu and Boris Ivanovic and Steven L. Waslander and Yue Wang and Sanja Fidler and Marco Pavone and Peter Karkus}, 
+   year={2024}, 
+   booktitle=neurips,
+   pdf={https://arxiv.org/abs/2406.12095},
+   website={https://distillnerf.github.io},
+   selected={false},
+}
+
+@inproceedings{kuang2024, 
+   abbr={CoRL Oral},
+   bibtex_show={true},
+   title={RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation}, 
+   author={Yuxuan Kuang and Junjie Ye and Haoran Geng and Jiageng Mao and Congyue Deng and Leonidas Guibas and He Wang and Yue Wang}, 
+   year={2024}, 
+   booktitle=corl,
+   pdf={https://arxiv.org/abs/2407.04689},
+   website={https://yuxuank.com/RAM/},
+   code={https://github.com/yxKryptonite/RAM_code},
+   selected={true},
+}
+
+@inproceedings{peng2024, 
+   abbr={CoRL},
+   bibtex_show={true},
+   title={Q-SLAM: Quadric Representations for Monocular SLAM}, 
+   author={Chensheng Peng and Chenfeng Xu and Yue Wang and Mingyu Ding and Heng Yang and Masayoshi Tomizuka and Kurt Keutzer and Marco Pavone and Wei Zhan}, 
+   year={2024}, 
+   booktitle=corl,
+   pdf={https://arxiv.org/abs/2403.08125},
+   selected={false},
+}
+
+@inproceedings{tian2024, 
+   abbr={CoRL},
+   bibtex_show={true},
+   title={Tokenize the World into Object-level Knowledge to Address Long-tail Events in Autonomous Driving}, 
+   author={Ran Tian and Boyi Li and Xinshuo Weng and Yuxiao Chen and Edward Schmerling and Yue Wang and Boris Ivanovic and Marco Pavone}, 
+   year={2024}, 
+   booktitle=corl,
+   pdf={https://arxiv.org/abs/2407.00959},
+   selected={false},
+}
+
+@inproceedings{mao2024agent, 
+   abbr={COLM},
    bibtex_show={true},
    title={A Language Agent for Autonomous Driving}, 
    author={Jiageng Mao* and Junjie Ye* and Yuxi Qian and Marco Pavone and Yue Wang}, 
-   year={2023}, 
-   booktitle=preprint,
+   year={2024}, 
+   booktitle=colm,
    pdf={https://arxiv.org/abs/2311.10813},
    selected={true},
    website={https://usc-gvl.github.io/Agent-Driver/},
@@ -47,21 +106,103 @@
    year={2023}, 
    booktitle=preprint,
    pdf={https://arxiv.org/abs/2311.16504},
-   selected={true},
+   selected={false},
 }
 
+@inproceedings{yang2024dvt, 
+   abbr={ECCV Oral},
+   bibtex_show={true},
+   title={Denoising Vision Transformers}, 
+   author={Jiawei Yang* and Katie Z Luo* and Jiefeng Li and Congyue Deng and Leo Guibas and Kilian Q Weinberger and Yonglong Tian and Yue Wang}, 
+   year={2024}, 
+   booktitle=eccv,
+   pdf={https://arxiv.org/abs/2401.02957},
+   selected={true},
+   website={https://jiawei-yang.github.io/DenoisingViT/},
+}
+
+@inproceedings{yuan2024, 
+   abbr={ECCV},
+   bibtex_show={true},
+   title={PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors}, 
+   author={Tianyuan Yuan and Yucheng Mao and Jiawei Yang and Yicheng Liu and Yue Wang and Hang Zhao}, 
+   year={2024}, 
+   booktitle=eccv,
+   pdf={https://arxiv.org/abs/2403.09079},
+   selected={false},
+   code={https://github.com/yuantianyuan01/PreSight}
+}
+
+@inproceedings{singh2024, 
+   abbr={ICML},
+   bibtex_show={true},
+   title={Parallelized Spatiotemporal Slot Binding for Videos}, 
+   author={Gautam Singh and Yue Wang and Jiawei Yang and Boris Ivanovic and Sungjin Ahn and Marco Pavone and Tong Che}, 
+   year={2024}, 
+   booktitle=icml,
+   pdf={https://openreview.net/pdf/433a790aac2db75eb630e31cdb55d4b96258c0a9.pdf},
+   selected={false},
+   website={https://parallel-st-binder.github.io},
+}
+
+@inproceedings{ran2024, 
+   abbr={CVPR},
+   bibtex_show={true},
+   title={Towards Realistic Scene Generation with LiDAR Diffusion Models}, 
+   author={Haoxi Ran and Vitor Guizilini and Yue Wang}, 
+   year={2024}, 
+   booktitle=cvpr,
+   pdf={https://arxiv.org/abs/2404.00815},
+   website={https://lidar-diffusion.github.io},
+   code={https://github.com/hancyran/LiDAR-Diffusion},
+   selected={false},
+}
+
+@inproceedings{li2024, 
+   abbr={CVPR},
+   bibtex_show={true},
+   title={Driving Everywhere with Large Language Model Policy Adaptation}, 
+   author={Boyi Li and Yue Wang and Jiageng Mao and Boris Ivanovic and Sushant Veer and Karen Leung and Marco Pavone}, 
+   year={2024}, 
+   booktitle=cvpr,
+   pdf={https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Driving_Everywhere_with_Large_Language_Model_Policy_Adaptation_CVPR_2024_paper.pdf},
+   selected={false},
+}
+
+@inproceedings{weng2024, 
+   abbr={CVPR},
+   bibtex_show={true},
+   title={PARA-Drive: Parallelized Architecture for Real-time Autonomous Driving}, 
+   author={Xinshuo Weng, Boris Ivanovic, Yan Wang, Yue Wang, Marco Pavone}, 
+   year={2024}, 
+   booktitle=cvpr,
+   pdf={https://openaccess.thecvf.com/content/CVPR2024/html/Weng_PARA-Drive_Parallelized_Architecture_for_Real-time_Autonomous_Driving_CVPR_2024_paper.html},
+   selected={false},
+}
 
 @inproceedings{yang2023emernerf, 
    abbr={ICLR},
    bibtex_show={true},
    title={EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision}, 
    author={Jiawei Yang and Boris Ivanovic and Or Litany and Xinshuo Weng and Seung Wook Kim and Boyi Li and Tong Che and Danfei Xu and Sanja Fidler and Marco Pavone and Yue Wang}, 
-   year={2023}, 
+   year={2024}, 
    booktitle=iclr,
    pdf={https://arxiv.org/abs/2311.02077},
    selected={true},
    code={https://github.com/NVlabs/EmerNeRF},
    website={https://emernerf.github.io},
+}
+
+@inproceedings{luo2023smerf, 
+   abbr={ICRA},
+   bibtex_show={true},
+   title={Augmenting Lane Perception and Topology Understanding with Standard Definition Navigation Map}, 
+   author={Katie Z Luo and Xinshuo Weng and Yan Wang and Shuang Wu and Jie Li and Kilian Q Weinberger and Yue Wang and Marco Pavone}, 
+   year={2024}, 
+   booktitle=icra,
+   pdf={https://arxiv.org/abs/2311.04079},
+   selected={false},
+   code={https://github.com/NVlabs/SMERF},
 }
 
 @article{mao2023gpt, 
@@ -72,7 +213,7 @@
    year={2023}, 
    booktitle=preprint,
    pdf={https://arxiv.org/abs/2310.01415},
-   selected={true},
+   selected={false},
    code={https://github.com/PointsCoder/GPT-Driver},
    website={https://pointscoder.github.io/projects/gpt_driver/index.html},
 }
