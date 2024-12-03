@@ -25,9 +25,9 @@ I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) (2023 Fall-). I 
 My research lies in the intersection of computer vision, computer graphics, and robotics. My goal is to use machine learning to <strong>enable robotic intelligence with minimal human supervision</strong>. I study how to design 3D learning systems which leverage geometry, appearance, motion, and any other cues that are naturally available in sensory inputs. I am also broadly interested in fundamental deep learning tools and eclectic applications on top of these systems.
 
 Topics I currently focus on include:
-* <strong>neural representations for dynamic scenes</strong>
-* <strong>real2sim2real for robotics</strong>
-* <strong>robotic manipulation</strong>
+* <strong>Simulation.</strong> Constructing photorealistic simulations that replicate rare environments and enabling foundation model learning from synthetic or hybrid data sources.
+* <strong>Perception.</strong> Leveraging geometric, semantic, and motional cues to develop data-efficient algorithms for robust scene perception and understanding in both simulated and real-world settings.  
+* <strong>Decision Making.</strong> Integrating knowledge from foundation models (such as LLMs) into intelligent agents to enhance autonomous decision-making capabilities in novel and unknown environments. 
 
 ---
 PhD students:
