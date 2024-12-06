@@ -51,6 +51,14 @@
                   {%- endif -%}
                 </a>
               </li>
+
+              <li class="nav-item {% if page.url contains 'group' %}active{% endif %}">
+                <a class="nav-link" href="https://usc-gvl.github.io">Group</a>
+                {%- if page.permalink == '/group' -%}
+                <span class="sr-only">(current)</span>
+                {%- endif -%}
+              </li>
+
               {% if site.blog_nav_title %}
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
