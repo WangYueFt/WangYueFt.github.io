@@ -33,8 +33,8 @@ Topics I currently focus on include:
 PhD students:
 * [Emily Jia](https://emily-jia.github.io/personal-web/) (co-advised with [Yajie Zhao](https://www.yajie-zhao.com))
 * [Jiageng Mao](https://scholar.google.com.hk/citations?user=5S9eZbcAAAAJ&hl=zh-CN) (Qualcomm Fellow)
-* [Jiawei Yang](https://jiawei-yang.github.io) 
-* [Junjie Ye](https://jay-ye.github.io) (Qualcomm Fellow)
+* [Jiawei Yang](https://jiawei-yang.github.io) (Nvidia Fellow)
+* [Junjie Ye](https://jay-ye.github.io) (Qualcomm Fellow, Capital One Fellow)
 * [Cameron Smith](https://cameronosmith.github.io) 
 * [Siheng Zhao](https://sihengz02.github.io)
   
