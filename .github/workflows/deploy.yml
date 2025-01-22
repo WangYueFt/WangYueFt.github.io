@@ -21,10 +21,12 @@ jobs:
       with:
         ruby-version: '3.0.2'
         bundler-cache: true
-    - name: Update Bundler
+    - name: Clean and Install Dependencies
         run: |
-          gem install bundler
-          bundle update --bundler
+          rm -rf vendor/bundle
+          rm -f Gemfile.lock
+          gem install bundler -v 2.3.26
+          bundle install --no-cache --jobs 4 --retry 3
     - name: Install deps
       run: |
         npm install -g mermaid.cli
