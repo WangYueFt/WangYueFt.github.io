@@ -22,4 +22,4 @@ group :other_plugins do
     gem 'feedjira'
 end
 
-gem 'uri', '1.0.2'
+gem 'uri', '~> 1.0.2'
