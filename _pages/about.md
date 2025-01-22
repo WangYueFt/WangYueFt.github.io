@@ -33,7 +33,7 @@ Topics I currently focus on include:
 PhD students:
 * [Emily Jia](https://emily-jia.github.io/personal-web/) (co-advised with [Yajie Zhao](https://www.yajie-zhao.com))
 * [Jiageng Mao](https://scholar.google.com.hk/citations?user=5S9eZbcAAAAJ&hl=zh-CN) (Qualcomm Fellow)
-* [Jiawei Yang](https://jiawei-yang.github.io) (Nvidia Fellow)
+* [Jiawei Yang](https://jiawei-yang.github.io) (Nvidia Fellow, Annenberg Fellow)
 * [Junjie Ye](https://jay-ye.github.io) (Qualcomm Fellow, Capital One Fellow)
 * [Cameron Smith](https://cameronosmith.github.io) 
 * [Siheng Zhao](https://sihengz02.github.io)
@@ -42,15 +42,13 @@ MS students:
 * [Jonathan Zamora](https://jonzamora.dev)
 * [Haozhe Lou](https://scholar.google.com/citations?user=BIPK9KEAAAAJ&hl=en)
 * [Ting-Hsuan Chen](https://koi953215.github.io)
-* Scoot Gao
+* Scott Gao
 
 Undergrads:
 * Dylan Sun
 
 Visitors:
 * Ziyu Chen
-* Feishi Wang
-* Yiduo Guo
 
 Alumni:
 * James Qian (Next stop: Stanford)
