@@ -20,7 +20,7 @@ I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) (2023 Fall-), le
 <!-- I've received the [Nvidia Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) (2020-2021) and the MIT EECS William A. Martin Master’s Thesis Award (2021).  -->
 
 
-<!-- <span style="color:red">I am looking to hire multiple PhDs/visiting students. In particular, we welcome students from marginalized groups. We firmly support [Viterbi school's DEI initiative](https://viterbischool.usc.edu/diversity-equity-inclusion/) to contribute to diversity. For PhD applicants, please mention my name in your application. Interested candidates for visiting positions can fill [this form](https://forms.gle/RerZfDqCqmCj8As27) and I will respond as soon as I find a good fit. </span> -->
+<span style="color:red">I am looking to hire multiple PhDs/visiting students. For PhD applicants, please mention my name in your application. Interested candidates for internship positions can refer to [this job post](https://x.com/yuewang314/status/1956452831499804857) and I will respond as soon as I find a good fit. </span>
 
 
 ---
