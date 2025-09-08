@@ -1,1 +1,0 @@
-*Yue Wang's personal website*
