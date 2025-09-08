@@ -29,32 +29,44 @@ My research lies in the intersection of computer vision, computer graphics, and 
 Topics I currently focus on include:
 * <strong>Simulation.</strong> Constructing photorealistic simulations that replicate rare environments and enabling foundation model learning from synthetic or hybrid data sources.
 * <strong>Perception.</strong> Leveraging geometric, semantic, and motional cues to develop data-efficient algorithms for robust scene perception and understanding in both simulated and real-world settings.  
-* <strong>Decision Making.</strong> Integrating knowledge from foundation models (such as LLMs) into intelligent agents to enhance autonomous decision-making capabilities in novel and unknown environments. 
+* <strong>Decision Making.</strong> Integrating knowledge from foundation models (such as LLMs) into intelligent agents for humanoids and robotic manipulation in novel and unknown environments. 
 
 ---
 PhD students:
 * [Emily Jia](https://emily-jia.github.io/personal-web/) (co-advised with [Yajie Zhao](https://www.yajie-zhao.com))
 * [Jiageng Mao](https://scholar.google.com.hk/citations?user=5S9eZbcAAAAJ&hl=zh-CN) (Qualcomm Fellow)
-* [Jiawei Yang](https://jiawei-yang.github.io) (Nvidia Fellow, Annenberg Fellow)
+* [Jiawei Yang](https://jiawei-yang.github.io) (Nvidia Fellow, Annenberg Fellow, Qualcomm Fellow)
 * [Junjie Ye](https://jay-ye.github.io) (Qualcomm Fellow, Capital One Fellow)
-* [Cameron Smith](https://cameronosmith.github.io) 
+* [Cameron Smith](https://cameronosmith.github.io) (Qualcomm Fellow)
 * [Siheng Zhao](https://sihengz02.github.io)
+* [Yiqi Zhao](https://zhaoy37.github.io) (co-advised with [Jyo Deshmukh](https://jdeshmukh.github.io/) and [Lars Lindemann](https://sites.google.com/view/larslindemann/main-page))
+* [Kyle Hatch](https://khatch31.github.io) (co-advised with [Daniel Seita](https://danielseita.github.io/))
+* [Toan Nguyen](https://toannguyen1904.github.io) (co-advised with [Daniel Seita](https://danielseita.github.io/))
+* [Yihe Tang](https://tangyihe.com)
+* [Junying Wang](https://junyingw.github.io) (co-advised with [Ulrich Neumann](https://scholar.google.com/citations?user=MHet2VoAAAAJ&hl=en))
+* [Quankai Gao](https://zerg-overmind.github.io) (co-advised with [Ulrich Neumann](https://scholar.google.com/citations?user=MHet2VoAAAAJ&hl=en))
   
 MS students:
 * [Jonathan Zamora](https://jonzamora.dev)
-* [Haozhe Lou](https://scholar.google.com/citations?user=BIPK9KEAAAAJ&hl=en)
 * [Ting-Hsuan Chen](https://koi953215.github.io)
-* Scott Gao
+* Hongyi Jing
+* Rong Xue
 
 Undergrads:
 * Dylan Sun
-
-Visitors:
-* Ziyu Chen
+* Kaidi Kang
+* Zhenyu Zhao
+* William Liu
 
 Alumni:
-* James Qian (Next stop: Stanford)
-  
+* James Qian (Next stop: transferred to Stanford)
+* [Ziyu Chen](https://scholar.google.com/citations?user=u9Z__t0AAAAJ&hl=zh-CN) (Next stop: PhD at Stanford with [Jiajun Wu](https://jiajunwu.com) and [Fei-Fei Li](http://vision.stanford.edu))
+* Scott Gao (Next stop: PhD with [Jernej Barbic](https://viterbi-web.usc.edu/~jbarbic/))
+* [Mingtong Zhang](https://robo-alex.github.io) (Next stop: PhD at Princeton with [Dhruv Shah](https://ece.princeton.edu/people/shahd))
+* [Haozhe Lou](https://scholar.google.com/citations?user=BIPK9KEAAAAJ&hl=en)
+* Wei Zhou (Next stop: PhD at UPenn with [Jiatao Gu](https://jiataogu.me) and [Antonio Loquercio](https://antonilo.github.io/))
+* [Yuxuan Kuang](https://yuxuank.com) (Next stop: PhD at CMU)
+
 ---
 
 Selected Award:
