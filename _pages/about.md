@@ -38,7 +38,7 @@ PhD students:
 * [Jiawei Yang](https://jiawei-yang.github.io) (Nvidia Fellow, Annenberg Fellow, Qualcomm Fellow)
 * [Junjie Ye](https://jay-ye.github.io) (Qualcomm Fellow, Capital One Fellow)
 * [Cameron Smith](https://cameronosmith.github.io) (Qualcomm Fellow)
-* [Siheng Zhao](https://sihengz02.github.io)
+* [Siheng Zhao](https://sihengz02.github.io) (Amazon ML Fellow)
 * [Yiqi Zhao](https://zhaoy37.github.io) (co-advised with [Jyo Deshmukh](https://jdeshmukh.github.io/) and [Lars Lindemann](https://sites.google.com/view/larslindemann/main-page))
 * [Kyle Hatch](https://khatch31.github.io) (co-advised with [Daniel Seita](https://danielseita.github.io/))
 * [Toan Nguyen](https://toannguyen1904.github.io) (co-advised with [Daniel Seita](https://danielseita.github.io/))
@@ -63,7 +63,7 @@ Alumni:
 * [Ziyu Chen](https://scholar.google.com/citations?user=u9Z__t0AAAAJ&hl=zh-CN) (Next stop: PhD at Stanford with [Jiajun Wu](https://jiajunwu.com) and [Fei-Fei Li](http://vision.stanford.edu))
 * Scott Gao (Next stop: PhD with [Jernej Barbic](https://viterbi-web.usc.edu/~jbarbic/))
 * [Mingtong Zhang](https://robo-alex.github.io) (Next stop: PhD at Princeton with [Dhruv Shah](https://ece.princeton.edu/people/shahd))
-* [Haozhe Lou](https://scholar.google.com/citations?user=BIPK9KEAAAAJ&hl=en)
+* [Haozhe Lou](https://scholar.google.com/citations?user=BIPK9KEAAAAJ&hl=en) (Next stop: RA at Tsinghua)
 * Wei Zhou (Next stop: PhD at UPenn with [Jiatao Gu](https://jiataogu.me) and [Antonio Loquercio](https://antonilo.github.io/))
 * [Yuxuan Kuang](https://yuxuank.com) (Next stop: PhD at CMU)
 
