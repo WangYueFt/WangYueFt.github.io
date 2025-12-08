@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) (2023 Fall-), leading the [Geometry, Vision, and Learning Lab](https://usc-gvl.github.io). I graduated from MIT EECS in 2022, advised by [Prof. Justin Solomon](https://people.csail.mit.edu/jsolomon) at the [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). I was also fortunate to collaborate with [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and [Prof. Phillip Isola](https://web.mit.edu/phillipi/). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  
+I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) (2023 Fall-), leading the [Physical SuperIntelligence Lab](https://psi-lab.ai). I graduated from MIT EECS in 2022, advised by [Prof. Justin Solomon](https://people.csail.mit.edu/jsolomon) at the [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). I was also fortunate to collaborate with [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and [Prof. Phillip Isola](https://web.mit.edu/phillipi/). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  
 
 <!-- I've received the [Nvidia Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) (2020-2021) and the MIT EECS William A. Martin Master’s Thesis Award (2021).  -->
 
@@ -34,7 +34,7 @@ Topics I currently focus on include:
 ---
 PhD students:
 * [Emily Jia](https://emily-jia.github.io/personal-web/) (co-advised with [Yajie Zhao](https://www.yajie-zhao.com))
-* [Jiageng Mao](https://scholar.google.com.hk/citations?user=5S9eZbcAAAAJ&hl=zh-CN) (Qualcomm Fellow)
+* [Jiageng Mao](https://scholar.google.com.hk/citations?user=5S9eZbcAAAAJ&hl=zh-CN) (Qualcomm Fellow, Nvidia Fellow)
 * [Jiawei Yang](https://jiawei-yang.github.io) (Nvidia Fellow, Annenberg Fellow, Qualcomm Fellow)
 * [Junjie Ye](https://jay-ye.github.io) (Qualcomm Fellow, Capital One Fellow)
 * [Cameron Smith](https://cameronosmith.github.io) (Qualcomm Fellow)
