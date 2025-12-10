@@ -15,21 +15,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) (2023 Fall-), leading the [Physical SuperIntelligence Lab](https://psi-lab.ai). I graduated from MIT EECS in 2022, advised by [Prof. Justin Solomon](https://people.csail.mit.edu/jsolomon) at the [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). I was also fortunate to collaborate with [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and [Prof. Phillip Isola](https://web.mit.edu/phillipi/). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  
+I am an Assistant Professor at [USC CS](https://www.cs.usc.edu) (2023 Fall-), leading the [Physical SuperIntelligence Lab](https://psi-lab.ai). I graduated from MIT EECS in 2022, advised by [Prof. Justin Solomon](https://people.csail.mit.edu/jsolomon) at the [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup). Previously, I was a master student at University of California, San Diego. Prior to that, I received my BEng in Computer Science from Zhejiang University.  
 
 <!-- I've received the [Nvidia Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) (2020-2021) and the MIT EECS William A. Martin Master’s Thesis Award (2021).  -->
 
 
-<span style="color:red">I am looking to hire multiple PhDs/visiting students. For PhD applicants, please mention my name in your application. Interested candidates for internship positions can refer to [this job post](https://x.com/yuewang314/status/1956452831499804857) and I will respond as soon as I find a good fit. </span>
+<span style="color:red">I am looking to hire multiple PhDs/visiting students who are highly motivated and excited about robotics. For PhD applicants, please mention my name in your application. Interested candidates for internship positions can refer to [this job post](https://x.com/yuewang314/status/1956452831499804857) and I will respond as soon as I find a good fit. </span>
 
 
 ---
-My research lies in the intersection of computer vision, computer graphics, and robotics. My goal is to use machine learning to <strong>enable robotic intelligence with minimal human supervision</strong>. I study how to design 3D learning systems which leverage geometry, appearance, motion, and any other cues that are naturally available in sensory inputs. I am also broadly interested in fundamental deep learning tools and eclectic applications on top of these systems.
-
-Topics I currently focus on include:
-* <strong>Simulation.</strong> Constructing photorealistic simulations that replicate rare environments and enabling foundation model learning from synthetic or hybrid data sources.
-* <strong>Perception.</strong> Leveraging geometric, semantic, and motional cues to develop data-efficient algorithms for robust scene perception and understanding in both simulated and real-world settings.  
-* <strong>Decision Making.</strong> Integrating knowledge from foundation models (such as LLMs) into intelligent agents for humanoids and robotic manipulation in novel and unknown environments. 
+Our goal is to solve the data problem first, then solve robotics. We work on generative data engines for robotics, humanoids, and dexterous manipulation. 
 
 ---
 PhD students:
