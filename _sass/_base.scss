@@ -651,3 +651,20 @@ html.transition *:after {
     }
   }
 }
+
+// Hiring callout
+.hiring-callout {
+  background-color: #fff3cd;
+  color: #856404;
+  a {
+    color: #856404;
+  }
+}
+
+html[data-theme='dark'] .hiring-callout {
+  background-color: #332b00;
+  color: #ffc107;
+  a {
+    color: #ffc107;
+  }
+}
