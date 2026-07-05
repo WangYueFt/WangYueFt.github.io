@@ -77,6 +77,10 @@ Our goal is to solve the data problem first, then solve robotics. We work on gen
 
 **Selected Awards:**
 
+* Best Paper Award, CVPR 2026 Embodied AI Workshop (Humanoid Everyday)
+* Best Paper Award, CVPR 2026 3D VLA/LLM Workshop (Psi-0)
+* Best Paper Runner-Up, CVPR 2026 3D VLA/LLM Workshop (PhysWorld)
+* Third Place Award, CVPR 2026 Image-to-Video Consistent Generation Challenge (VideoGPA)
 * Best Open-Source Award, IROS 2025 RoboGen Workshop
 * Best Paper Award, IROS 2025 RGMCW Workshop
 * Toyota Research Young Faculty Fellowship, 2024
